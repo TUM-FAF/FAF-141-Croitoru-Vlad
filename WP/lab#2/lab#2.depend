@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1457475703 source:c:\users\srdv\desktop\pw\test\faf-121-leahu-luminita\wp\lab#2\main.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<commdlg.h>
+	<iostream>
+	"resource.h"
+
+1457475703 c:\users\srdv\desktop\pw\test\faf-121-leahu-luminita\wp\lab#2\resource.h
+
+1457475703 source:c:\users\srdv\desktop\pw\test\faf-121-leahu-luminita\wp\lab#2\resource.rc
+	"resource.h"
+	"afxres.h"
+
+1457642390 source:c:\users\srdv\desktop\pw\lab#2\main.cpp
+	<windows.h>
+	"resource.h"
+
+1457642291 c:\users\srdv\desktop\pw\lab#2\resource.h
+
+1457642291 source:c:\users\srdv\desktop\pw\lab#2\resource.rc
+	<windows.h>
+	"resource.h"
+
+1457642291 source:d:\screens holder\lab#2\resource.rc
+	<windows.h>
+	"resource.h"
+
+1457642291 d:\screens holder\lab#2\resource.h
+
+1457643849 source:d:\screens holder\lab#2\main.cpp
+	<windows.h>
+	"resource.h"
+

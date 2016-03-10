@@ -1,0 +1,18 @@
+#include <windows.h>
+#include "resource.h"
+
+IDI_ICON		ICON    	"trump.ico"
+IDC_CURSOR		CURSOR  	"usa.cur"
+IDB_BACKGROUND      BITMAP      "dolla.bmp"
+
+IDD_ABOUT DIALOG DISCARDABLE  0, 0, 260, 70
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Info"
+FONT 12, "Helvetica"
+BEGIN
+    DEFPUSHBUTTON   "&OK",IDOK,174,18,50,14
+    PUSHBUTTON      "&Cancel",IDCANCEL,174,35,50,14
+    GROUPBOX        "Credits",IDC_STATIC,7,7,225,52
+    CTEXT           "Windows Programming\r\nLaboratory Work #2\r\n Special thanks to Doneld Tramp for making this possible",
+                    IDC_STATIC,16,18,144,33
+END
