@@ -1,5 +1,5 @@
-Implemented Tasks:\n
-1) Drawing area\n
+Implemented Tasks:
+1) Drawing area
 2) Set of tools (pen, line, bezier curves, ...)
 3) Adjustable color for borders/filling
 4) Adjustable width of the brush
